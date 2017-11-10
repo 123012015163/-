@@ -26,15 +26,15 @@
 ---------------------------------------------------------------------------------
 实验截图：
 1. 控制台选择
-! [(https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/Main.png)]
+! [](https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/Main.png)
 2. 数据从文件里面读取出来，因为每次都执行那个函数，所以可能每次的数据都不大一样
-! [(https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/Time.png)]
+! [](https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/Time.png)
 3. 单线程先到先服务
-! [(https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/SingleFCFS.png)]
+! [](https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/SingleFCFS.png)
 4. 双线程先到先服务
-! [(https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/DoubleFCFS.png)]
+! [](https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/DoubleFCFS.png)
 5. 单线程短作业优先（我每次判断任务优先的时候，任务需要没变，但是任务的到达时间和服务时间进行调换）
-! [(https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/SingleSJF.png)]
+! [](https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/SingleSJF.png)
 6.双线程短作业优先
-! [(https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/SingleSJF.png)]
+! [](https://github.com/123012015163/-/blob/master/TaskFCFSSJF/img/SingleSJF.png)
 
