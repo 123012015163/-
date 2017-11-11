@@ -22,4 +22,4 @@ JAVA的IO操作
 
 ##实验二
 1. 实验结果
-! [(https://github.com/123012015163/-/blob/master/Test_5/img/文件夹读取.png)]
+! [](https://github.com/123012015163/-/blob/master/Test_5/img/文件夹读取.png)
