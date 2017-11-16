@@ -35,11 +35,7 @@
 ![](https://github.com/123012015163/-/raw/master/TaskFCFSSJF/img/DoubleFCFS.png)
 5. 单线程短作业优先（我每次判断任务优先的时候，任务需要没变，但是任务的到达时间和服务时间进行调换）
 ![](https://github.com/123012015163/-/raw/master/TaskFCFSSJF/img/SingleSJF.png)
-<<<<<<< HEAD
 6. 双线程短作业优先
 ![](https://github.com/123012015163/-/raw/master/TaskFCFSSJF/img/DoubleSJF.png)
-=======
-6.双线程短作业优先
-![](https://github.com/123012015163/-/raw/master/TaskFCFSSJF/img/SingleSJF.png)
->>>>>>> 5bd7c6d46a1bb959d030ad6138f39c7246e07148
+
 
